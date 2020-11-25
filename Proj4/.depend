@@ -1,0 +1,2 @@
+BinarySearchTree.o: BinarySearchTree.h BinaryTreeInterface.h \
+ NotFoundException.h BinaryNode.h PrecondViolatedExcept.h

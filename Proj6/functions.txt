@@ -1,0 +1,47 @@
+BST			MD			QZ
+getHeightHelper		getHeightFromNode
+*getNumberOfNodesHelper				KeyCount
+-balancedAdd
+*/placeNode		placeNode		InsertRec
+/insertRec		insertRec		InsertRec
+/deleteRec		deleteRec		DeleteRec
+/leftRotate		leftRotate		rotateLeft
+/rightRotate		rightRotate		rotateRight
+/findMin		findMin
+/deleteMin		deleteMin		DeleteMin
+/moveRedLeft		moveRedLeft
+/moveRedRight		moveRedRight
+/fixUp			fixUp
+/isRed			isRed
+/colorFlip		flipColors		ColorFlip
+*removeValue					Delete
+*removeNode
+*removeLeftmostNode			
+findNode		
+copyTree		
+destroyTree		
+/preorder		preorder
+/inorder		inorder
+/postorder		postorder
+/BinarySearchTree	
+/isEmpty		
+/getHeight		getHeight
+*getNumberOfNodes	
+*getRootData		
+*setRootData
+/add			add			Insert
+/remove			remove			Delete
+/clear		
+getEntry		
+*contains		
+/preorderTraverse	preorderTraverse
+/inorderTraverse	inorderTraverse
+/postorderTraverse	postorderTraverse
+*operator=
+
+Notes:
+SetColor -> SetRed [support boolean implementation]
+GetColor -> GetRed
+flipColors -> colorFlip
+Free(*) = delete *
+flipColor -> colorReverse

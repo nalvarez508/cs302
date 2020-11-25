@@ -1,0 +1,18 @@
+Add 157 to tree
+Add 5 to tree
+Add 125 to tree
+Add 59 to tree
+Add 20 to tree
+Add 81 to tree
+Add 79 to tree
+Add 146 to tree
+Add 145 to tree
+Add 97 to tree
+
+Preorder Traversal
+79[black], 20[black], 5[black], 59[black], 146[black], 125[red], 97[black], 81[red], 145[black], 157[black], 
+
+Remove 20 from tree
+
+Preorder Traversal
+79[black], 20[black], 5[black], 59[black], 146[black], 125[red], 97[black], 81[red], 145[black], 157[black],

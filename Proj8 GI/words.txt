@@ -1,0 +1,9 @@
+in solving these exercises it is the intention that containers
+algorithms function objects iterators and other standard
+components are to be used as much as possible if applicable and
+even when it is not explicitly stated use containers for storing data
+note that associative containers store the elements in sorted order
+which one can take advantage of in solving certain problems use
+algorithms rather than loops if possible use function objects
+predefined or create your own in combination with algorithms rather
+than using simple functions

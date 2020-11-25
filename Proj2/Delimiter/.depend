@@ -1,0 +1,1 @@
+StackLinked.o: StackLinked.h Stack.h
